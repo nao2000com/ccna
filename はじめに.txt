@@ -8,3 +8,5 @@
 
 ③「Cisco Packet Tracer」を開き、「File」→「open」で学習対象の
 　ファイルを開いて下さい。
+　
+　
